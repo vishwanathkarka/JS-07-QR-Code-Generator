@@ -2,7 +2,7 @@
 This Project is part of the Full Stack Javascript bootcamp 
 
 
-## PROJECT 04 - [LINK ](https://vishwajs-07.netlify.app/)
+## PROJECT 07 - [LINK ](https://vishwajs-07.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned how to handle API
